@@ -86,6 +86,10 @@ module.exports = [
         maintainers: ['antonkomarev', 'FunfareNico'],
       },
       {
+        slug: 'threads', name: 'Threads',
+        maintainers: ['nickbeen'],
+      },
+      {
         slug: 'webex', name: 'Webex',
         maintainers: ['askmrsinh'],
       },
